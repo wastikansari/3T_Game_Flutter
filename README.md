@@ -1,4 +1,7 @@
-# tic_ta_toe
+# 3T Game(Tic Tac Toe)
+<!-- ![20220421_164928](https://user-images.githubusercontent.com/60548408/164545536-1512dc59-13a0-46c6-b23d-7200fd2394b0.jpg) -->
+![20220421_164020](https://user-images.githubusercontent.com/60548408/164545888-9fdfcea9-1fd5-46d8-bd05-5527f3cf601d.png)
+<!-- ![20220421_164825](https://user-images.githubusercontent.com/60548408/164545899-45981728-0421-491a-a978-678d730ba122.png) -->
 
 A new Flutter project.
 
